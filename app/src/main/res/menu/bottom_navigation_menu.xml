@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_peliculas"
+        android:icon="@drawable/ic_movie"
+        android:title="Películas" />
+
+    <item
+        android:id="@+id/navigation_series"
+        android:icon="@drawable/ic_tv"
+        android:title="Series" />
+
+    <item
+        android:id="@+id/navigation_favoritos"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favoritos" />
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Cerrar Sesión" />
+
+</menu>
